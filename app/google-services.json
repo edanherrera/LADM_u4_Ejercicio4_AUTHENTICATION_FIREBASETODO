@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283190316467",
+    "project_id": "ejercicio4firebasetodo",
+    "storage_bucket": "ejercicio4firebasetodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283190316467:android:d4c7441ef8f733ae064fc6",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_ejercicio4_authentication_firebasetodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283190316467-6hti2jh1e5tt93efc1srv4idgtoe6mr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_o9RycZKLE-cquHKaQHDXGgarhmz0nfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283190316467-6hti2jh1e5tt93efc1srv4idgtoe6mr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
